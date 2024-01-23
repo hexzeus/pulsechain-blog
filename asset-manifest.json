@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pulsechain-blog/static/css/main.297e3108.css",
-    "main.js": "/pulsechain-blog/static/js/main.9125f3c1.js",
+    "main.js": "/pulsechain-blog/static/js/main.f4a44013.js",
     "static/js/787.c76533d9.chunk.js": "/pulsechain-blog/static/js/787.c76533d9.chunk.js",
     "static/media/gopulse.jpg": "/pulsechain-blog/static/media/gopulse.672be56f6d86450fdc8c.jpg",
     "index.html": "/pulsechain-blog/index.html",
     "main.297e3108.css.map": "/pulsechain-blog/static/css/main.297e3108.css.map",
-    "main.9125f3c1.js.map": "/pulsechain-blog/static/js/main.9125f3c1.js.map",
+    "main.f4a44013.js.map": "/pulsechain-blog/static/js/main.f4a44013.js.map",
     "787.c76533d9.chunk.js.map": "/pulsechain-blog/static/js/787.c76533d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.297e3108.css",
-    "static/js/main.9125f3c1.js"
+    "static/js/main.f4a44013.js"
   ]
 }
