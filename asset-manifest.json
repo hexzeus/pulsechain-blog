@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pulsechain-blog/static/css/main.297e3108.css",
-    "main.js": "/pulsechain-blog/static/js/main.3b25539f.js",
+    "main.js": "/pulsechain-blog/static/js/main.cda3c7fc.js",
     "static/js/787.c76533d9.chunk.js": "/pulsechain-blog/static/js/787.c76533d9.chunk.js",
     "static/media/bg.png": "/pulsechain-blog/static/media/bg.0646902806bfe0d89357.png",
     "static/media/Logo.png": "/pulsechain-blog/static/media/Logo.2296ef1721039c8df28d.png",
@@ -15,11 +15,11 @@
     "static/media/post3.jpg": "/pulsechain-blog/static/media/post3.80c149525f7206bc9e8a.jpg",
     "index.html": "/pulsechain-blog/index.html",
     "main.297e3108.css.map": "/pulsechain-blog/static/css/main.297e3108.css.map",
-    "main.3b25539f.js.map": "/pulsechain-blog/static/js/main.3b25539f.js.map",
+    "main.cda3c7fc.js.map": "/pulsechain-blog/static/js/main.cda3c7fc.js.map",
     "787.c76533d9.chunk.js.map": "/pulsechain-blog/static/js/787.c76533d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.297e3108.css",
-    "static/js/main.3b25539f.js"
+    "static/js/main.cda3c7fc.js"
   ]
 }
