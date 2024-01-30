@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/pulsechain-blog/static/css/main.297e3108.css",
-    "main.js": "/pulsechain-blog/static/js/main.26fa6cf1.js",
+    "main.css": "/pulsechain-blog/static/css/main.761592a5.css",
+    "main.js": "/pulsechain-blog/static/js/main.92a9b1a9.js",
     "static/js/787.c76533d9.chunk.js": "/pulsechain-blog/static/js/787.c76533d9.chunk.js",
+    "static/media/background.png": "/pulsechain-blog/static/media/background.051519d2bd57f182a3d3.png",
     "static/media/Logo.png": "/pulsechain-blog/static/media/Logo.21ffc50aa0a60d72f16f.png",
     "static/media/BlogPost4.jpg": "/pulsechain-blog/static/media/BlogPost4.8221b70f470065520eca.jpg",
     "static/media/post4.jpg": "/pulsechain-blog/static/media/post4.8221b70f470065520eca.jpg",
@@ -13,13 +14,15 @@
     "static/media/post1.jpg": "/pulsechain-blog/static/media/post1.7d6ef7db180629794198.jpg",
     "static/media/BlogPost3.jpg": "/pulsechain-blog/static/media/BlogPost3.80c149525f7206bc9e8a.jpg",
     "static/media/post3.jpg": "/pulsechain-blog/static/media/post3.80c149525f7206bc9e8a.jpg",
+    "static/media/internetmoney.jpg": "/pulsechain-blog/static/media/internetmoney.e8686179764283044c06.jpg",
+    "static/media/hextoys.jpg": "/pulsechain-blog/static/media/hextoys.09cf5092e197ea2b081a.jpg",
     "index.html": "/pulsechain-blog/index.html",
-    "main.297e3108.css.map": "/pulsechain-blog/static/css/main.297e3108.css.map",
-    "main.26fa6cf1.js.map": "/pulsechain-blog/static/js/main.26fa6cf1.js.map",
+    "main.761592a5.css.map": "/pulsechain-blog/static/css/main.761592a5.css.map",
+    "main.92a9b1a9.js.map": "/pulsechain-blog/static/js/main.92a9b1a9.js.map",
     "787.c76533d9.chunk.js.map": "/pulsechain-blog/static/js/787.c76533d9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.297e3108.css",
-    "static/js/main.26fa6cf1.js"
+    "static/css/main.761592a5.css",
+    "static/js/main.92a9b1a9.js"
   ]
 }
