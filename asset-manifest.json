@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/pulsechain-blog/static/css/main.761592a5.css",
-    "main.js": "/pulsechain-blog/static/js/main.5db549fc.js",
+    "main.js": "/pulsechain-blog/static/js/main.68b1fe62.js",
     "static/js/787.c76533d9.chunk.js": "/pulsechain-blog/static/js/787.c76533d9.chunk.js",
     "static/media/background.png": "/pulsechain-blog/static/media/background.051519d2bd57f182a3d3.png",
     "static/media/Logo.png": "/pulsechain-blog/static/media/Logo.21ffc50aa0a60d72f16f.png",
+    "static/media/Logo3.png": "/pulsechain-blog/static/media/Logo3.d0364e90b43339d2a593.png",
     "static/media/BlogPost4.jpg": "/pulsechain-blog/static/media/BlogPost4.8221b70f470065520eca.jpg",
     "static/media/post4.jpg": "/pulsechain-blog/static/media/post4.8221b70f470065520eca.jpg",
     "static/media/BlogPost2.jpg": "/pulsechain-blog/static/media/BlogPost2.b0f99d44a1f7ef19619d.jpg",
@@ -17,11 +18,11 @@
     "static/media/hextoys.jpg": "/pulsechain-blog/static/media/hextoys.09cf5092e197ea2b081a.jpg",
     "index.html": "/pulsechain-blog/index.html",
     "main.761592a5.css.map": "/pulsechain-blog/static/css/main.761592a5.css.map",
-    "main.5db549fc.js.map": "/pulsechain-blog/static/js/main.5db549fc.js.map",
+    "main.68b1fe62.js.map": "/pulsechain-blog/static/js/main.68b1fe62.js.map",
     "787.c76533d9.chunk.js.map": "/pulsechain-blog/static/js/787.c76533d9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.761592a5.css",
-    "static/js/main.5db549fc.js"
+    "static/js/main.68b1fe62.js"
   ]
 }
